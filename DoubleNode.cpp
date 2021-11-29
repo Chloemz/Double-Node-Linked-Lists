@@ -1,4 +1,4 @@
-/** @author: Chloe Zambrano
+/** @author: Chloe Marie
 
 DoubleNode.cpp: Implements DoubleNode & DoublyLinkedList functions using Templates, ADTs, and recursion 
 */
