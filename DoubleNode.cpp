@@ -1,7 +1,5 @@
 /** @author: Chloe Zambrano
-Email: Chloe.zambrano94@myhunter.cuny.edu
-CSCi235-01
-Project 3
+
 DoubleNode.cpp: Implements DoubleNode & DoublyLinkedList functions using Templates, ADTs, and recursion 
 */
 
